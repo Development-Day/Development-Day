@@ -92,6 +92,8 @@
 
 ## ⚡ Быстрый старт
 
+</div>
+
 ```bash
 git clone https://github.com/Development-Day/ServerDeck.git && cd ServerDeck
 git checkout -b feat/my-first-contribution
@@ -101,7 +103,6 @@ ruff check . && mypy . && pytest -q
 git add . && git commit -m "feat: краткое описание" && git push origin feat/my-first-contribution
 💡 Ищите задачи с меткой good first issue.
 ```
----
 
 <div align="center">
 
