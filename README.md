@@ -159,7 +159,6 @@ git add . && git commit -m "feat: краткое описание" && git push o
 <tr>
 <td align="center" width="33%" valign="top">
 
-### 🤝
 **Кодекс поведения**
 
 Соблюдайте [правила сообщества](./CODE_OF_CONDUCT.md).
@@ -167,7 +166,6 @@ git add . && git commit -m "feat: краткое описание" && git push o
 </td>
 <td align="center" width="33%" valign="top">
 
-### 🎯
 **Один PR — одна задача**
 
 Не смешивайте несвязанные изменения в одном pull request.
@@ -175,7 +173,6 @@ git add . && git commit -m "feat: краткое описание" && git push o
 </td>
 <td align="center" width="33%" valign="top">
 
-### ✍️
 **Осмысленные коммиты**
 
 По [Conventional Commits](https://www.conventionalcommits.org/ru/).
