@@ -7,7 +7,7 @@
 Студенческое сообщество: ML, мобильные и десктопные приложения, инфраструктура.
 Практикуем разработку на всех языках — от классических до современных.
 
-[![Проекты](https://img.shields.io/badge/🚀_Проекты-6-2ea44f?flat-square)](#-проекты)
+[![Проекты](https://img.shields.io/badge/🚀_Проекты-3-2ea44f?flat-square)](#-проекты)
 [![Участники](https://img.shields.io/badge/👥_Участники-студенты-3A7BD5?flat-square)](https://github.com/Development-Day/Development-Day/graphs/contributors)
 [![Лицензия](https://img.shields.io/badge/📄_MIT-green?flat-square)](./LICENSE)
 
