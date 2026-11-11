@@ -7,41 +7,70 @@
 Студенческое сообщество: ML, мобильные и десктопные приложения, инфраструктура.
 Практикуем разработку на всех языках — от классических до современных.
 
-[![Проекты](https://img.shields.io/badge/🚀_Проекты-3-2ea44f?flat-square)](#-проекты)
-[![Участники](https://img.shields.io/badge/👥_Участники-студенты-3A7BD5?flat-square)](https://github.com/Development-Day/Development-Day/graphs/contributors)
-[![Лицензия](https://img.shields.io/badge/📄_MIT-green?flat-square)](./LICENSE)
 
 </div>
 
----
+<div align="center">
 
 ## 📌 Проекты
 
-### 🖥️ [ServerDeck](https://github.com/Development-Day/ServerDeck) — флагман
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [ServerDeck](https://github.com/Development-Day/ServerDeck)
+**Флагман сообщества**
+
 Панель управления Linux-сервером: сайты, БД, бэкапы, мониторинг, терминал, Git-деплой. Laravel / Django / Next.js одной командой, SSL, nginx / apache / PHP-FPM, S3-бэкапы, деплой без простоя.
 
-![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-3776AB?flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?flat-square&logo=docker&logoColor=white)
-![MIT](https://img.shields.io/badge/License-MIT-green?flat-square)
-![Ruff](https://img.shields.io/badge/Ruff-checked-D7FF64?flat-square&logo=ruff&logoColor=black)
-![mypy](https://img.shields.io/badge/mypy-checked-2A6DB2?flat-square&logo=python&logoColor=white)
+![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Ruff](https://img.shields.io/badge/Ruff-checked-D7FF64?style=flat-square&logo=ruff&logoColor=black)
+![mypy](https://img.shields.io/badge/mypy-checked-2A6DB2?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🗂️ [samba-webmanager](https://github.com/Development-Day/samba-webmanager-v.0.1.0)
+
 Веб-интерфейс для Samba на Debian 11+ / Ubuntu 20.04+. Управление папками и пользователями без правки `smb.conf`.
 
-![Python](https://img.shields.io/badge/Python-3776AB?flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?flat-square&logo=flask&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚛️ [quantum-interpreter](https://github.com/Development-Day/quantum-interpreter-v.0.1.0)
+
 Гибридный классическо-квантовый интерпретатор на Python + Qiskit: суперпозиция, запутанность, измерения, сфера Блоха. CLI / REPL / GUI.
 
-![Python](https://img.shields.io/badge/Python-3776AB?flat-square&logo=python&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?flat-square&logo=qiskit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [Ваш проект?](https://github.com/Development-Day/Development-Day/issues)
+
+Есть идея или готовый проект — предложите его в Issues. Лучшие идеи попадают в этот список.
+
+![Community](https://img.shields.io/badge/Community-open-3A7BD5?style=flat-square&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ## 🛠️ Технологии
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?flat-square&logo=rust&logoColor=white)
@@ -58,6 +87,8 @@
 ![nginx](https://img.shields.io/badge/nginx-009639?flat-square&logo=nginx&logoColor=white)
 
 ---
+
+<div align="center">
 
 ## ⚡ Быстрый старт
 
