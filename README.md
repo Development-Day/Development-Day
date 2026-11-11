@@ -1,137 +1,312 @@
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  >> DEVELOPMENT-DAY :: typical community of students          ║
-║  >> Разработка ради обучения. Код ради пользы.               ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-`ML` · `Android` · `iOS` · `Desktop` · `DevOps`
-`Python` · `Rust` · `Kotlin` · `Swift` · `C++` · `Go`
-`Практика на всех языках программирования`
-`Открытый код — открытые знания`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Development-Day&fontSize=52&fontColor=ffffff&desc=Typical%20community%20of%20students&descAlignY=66&descSize=18" alt="Development-Day — студенческое сообщество разработчиков" width="100%" />
 
 </div>
 
----
+<div align="center">
 
-## `$ cat about.md`
+### 🎓 Разработка ради обучения. Код ради пользы.
 
 Мы — студенческое сообщество, которое создаёт проекты в самых разных областях:
 машинное обучение, мобильные и десктопные приложения, инфраструктурные панели.
 Практикуем разработку на всех языках программирования — от классических до современных.
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3A7BD5&center=true&vCenter=true&width=650&lines=ML+%E2%80%A2+Android+%E2%80%A2+iOS+%E2%80%A2+Desktop+%E2%80%A2+DevOps;Python+%E2%80%A2+Rust+%E2%80%A2+Kotlin+%E2%80%A2+Swift+%E2%80%A2+C%2B%2B+%E2%80%A2+Go;Практика+на+всех+языках+программирования;Открытый+код+%E2%80%94+открытые+знания)](https://git.io/typing-svg)
 
-## `$ ls ./directions`
+[![Проекты](https://img.shields.io/badge/🚀_Проекты-6-2ea44f?style=flat-square)](#-проекты-сообщества)
+[![Участники](https://img.shields.io/badge/👥_Участники-студенты-3A7BD5?style=flat-square)](https://github.com/Development-Day/Development-Day/graphs/contributors)
+[![Лицензия](https://img.shields.io/badge/📄_Лицензия-MIT-green?style=flat-square)](./LICENSE)
 
-| `[ML & AI]` | `[INFRASTRUCTURE]` | `[MOBILE]` |
-|---|---|---|
-| Квантовые интерпретаторы, прикладные модели, эксперименты с Qiskit, PyTorch и TensorFlow. | Панели управления серверами, веб-интерфейсы для администрирования, автоматизация развёртывания. | Android и iOS приложения для повседневных задач — Kotlin, Swift, Flutter, React Native. |
-
-| `[DESKTOP]` | `[WEB & SYSADMIN]` | `[COMMUNITY]` |
-|---|---|---|
-| Инструменты для работы, учёбы и автоматизации — Electron, Qt, .NET, Rust. | Веб-интерфейсы для управления инфраструктурой, Samba, nginx, PHP-FPM. | Code review, парное программирование, открытые обсуждения и обмен знаниями. |
+</div>
 
 ---
 
-## `$ ls ./projects`
+<div align="center">
 
-### `[ServerDeck]` — флагманский проект
+## 📖 Содержание
+
+[Чем мы занимаемся](#-чем-мы-занимаемся) • [Проекты](#-проекты-сообщества) • [Технологии](#%EF%B8%8F-языки-и-технологии) • [Статистика](#-статистика-сообщества) • [Быстрый старт](#-быстрый-старт) • [Как присоединиться](#-как-присоединиться) • [Связаться](#-связаться)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Чем мы занимаемся
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🧠 ML & AI
+Квантовые интерпретаторы, прикладные модели, эксперименты с Qiskit, PyTorch и TensorFlow.
+
+</td>
+<td align="center" width="33%">
+
+### 🖥️ Инфраструктура
+Панели управления серверами, веб-интерфейсы для администрирования, автоматизация развёртывания.
+
+</td>
+<td align="center" width="33%">
+
+### 📱 Мобильная разработка
+Android и iOS приложения для повседневных задач — Kotlin, Swift, Flutter, React Native.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Десктопные приложения
+Инструменты для работы, учёбы и автоматизации — Electron, Qt, .NET, Rust.
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 Веб и системное администрирование
+Веб-интерфейсы для управления инфраструктурой, Samba, nginx, PHP-FPM.
+
+</td>
+<td align="center" width="33%">
+
+### 🤝 Сообщество
+Code review, парное программирование, открытые обсуждения и обмен знаниями.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📌 Проекты сообщества
+
+</div>
+
+<table align="center">
+<tr>
+<td width="100%">
+
+### 🖥️ [ServerDeck](https://github.com/Development-Day/ServerDeck)
 
 **Панель управления Linux-сервером через веб-интерфейс.** Сайты, базы данных, резервное копирование, мониторинг, терминал и Git-развёртывание — в едином окне.
 
-`CI passing` · `Security CI` · `Docker` · `Python 3.12+` · `MIT` · `Ruff` · `mypy`
+[![CI](https://img.shields.io/badge/CI-passing-2ea44f?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/Development-Day/ServerDeck/actions)
+[![Security](https://img.shields.io/badge/Security-CI-D22128?style=flat-square&logo=shieldsdotio&logoColor=white)](https://github.com/Development-Day/ServerDeck/security)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Ruff](https://img.shields.io/badge/Ruff-checked-D7FF64?style=flat-square&logo=ruff&logoColor=black)
+![mypy](https://img.shields.io/badge/mypy-checked-2A6DB2?style=flat-square&logo=python&logoColor=white)
 
 Развёртывание Laravel / Django / Next.js одной командой, выпуск SSL, настройка nginx / apache / PHP-FPM, резервное копирование в S3 с восстановлением, браузерный терминал с журналированием и фильтрацией команд, Git-развёртывание без простоя через символические ссылки.
 
 **Целевая аудитория:** системные администраторы, небольшие студии, специалисты по self-hosted инфраструктуре.
 
-> `ServerDeck` — флагманский проект сообщества: полноценная панель для администраторов, обслуживающих от одного до десяти серверов. Кластеры Kubernetes и мультитенантный хостинг запланированы в следующих версиях.
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-→ [`github.com/Development-Day/ServerDeck`](https://github.com/Development-Day/ServerDeck)
-
----
-
-### `[samba-webmanager-v.0.1.0]`
+### 🗂️ [samba-webmanager-v.0.1.0](https://github.com/Development-Day/samba-webmanager-v.0.1.0)
 
 **Веб-интерфейс для управления Samba** на Debian 11+ / Ubuntu 20.04+. Забудьте про редактирование `smb.conf` вручную — управляйте общими папками, пользователями и дисками через удобный веб-интерфейс.
 
-`Python` · `Flask` · `Linux`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-→ [`github.com/Development-Day/samba-webmanager-v.0.1.0`](https://github.com/Development-Day/samba-webmanager-v.0.1.0)
+</td>
+</tr>
+<tr>
+<td width="100%">
 
----
-
-### `[quantum-interpreter-v.0.1.0]`
+### ⚛️ [quantum-interpreter-v.0.1.0](https://github.com/Development-Day/quantum-interpreter-v.0.1.0)
 
 **QuantumInterpreter** — гибридный классическо-квантовый интерпретатор на Python + Qiskit. Поддерживает суперпозицию, запутанность, измерения, сферу Блоха и энтропию фон Неймана. Три интерфейса: CLI / REPL / GUI.
 
-`Python` · `Qiskit` · `NumPy`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-→ [`github.com/Development-Day/quantum-interpreter-v.0.1.0`](https://github.com/Development-Day/quantum-interpreter-v.0.1.0)
+</td>
+</tr>
+</table>
 
----
-
-## `$ cat stack.txt`
-
-**Языки программирования**
-
-```text
-Python    JavaScript  TypeScript  Rust      Go
-Kotlin    Swift       Java        C++       C
-C#        Ruby        PHP         Dart      R
-SQL       Bash
-```
-
-**ML / Data**
-
-```text
-PyTorch   TensorFlow  scikit-learn  Qiskit  Pandas  NumPy
-```
-
-**Мобильная и десктопная разработка**
-
-```text
-Android   iOS   Flutter   React Native   Electron   Qt   .NET
-```
-
-**Инфраструктура и качество кода**
-
-```text
-Git   GitHub Actions   Docker   Linux   nginx   Apache   S3
-Ruff  mypy             MIT License
-```
+> **ServerDeck** — флагманский проект сообщества: полноценная панель для администраторов, обслуживающих от одного до десяти серверов. Кластеры Kubernetes и мультитенантный хостинг запланированы в следующих версиях.
 
 ---
-
-## `$ stats --community`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Development-Day&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=00ffff&title_color=00ffff&text_color=66ffff&bg_color=000a0a" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Development-Day&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&title_color=00ffff&text_color=66ffff&bg_color=000a0a" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Development-Day&theme=tokyonight&hide_border=true&ring=00ffff&fire=00ff66&currStreakLabel=00ffff&background=000a0a" alt="GitHub Streak" />
-</p>
-
----
-
-## `$ ./join.sh --steps`
-
-| `[1]` `choose` | `[2]` `fork` | `[3]` `pr` | `[4]` `discuss` |
-|---|---|---|---|
-| Найди проект в списке выше или предложи идею в [Issues](https://github.com/Development-Day/Development-Day/issues). | Создай ветку и внеси изменения — даже если это первая правка. | Pull request с описанием изменений. Ревью поможем пройти. | Присоединяйся к [Discussions](https://github.com/Development-Day/Development-Day/discussions). |
-
----
-
-## `$ contact --github`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Development--Day-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000a0a)](https://github.com/Development-Day)
-
-```text
-EOF
-```
+## 🛠️ Языки и технологии
 
 </div>
+
+<details open>
+<summary><b>🎨 Языки программирования</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧠 ML / Data</b></summary>
+<br/>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📱 Мобильная и десктопная разработка</b></summary>
+<br/>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Инфраструктура и качество кода</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-checked-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
+![mypy](https://img.shields.io/badge/mypy-checked-2A6DB2?style=for-the-badge&logo=python&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</details>
+
+---
+
+<div align="center">
+
+## 📊 Статистика сообщества
+
+<img src="https://github-readme-stats.vercel.app/api?username=Development-Day&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub статистика Development-Day" loading="lazy" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Development-Day&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" alt="Топ языков программирования Development-Day" loading="lazy" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Development-Day&theme=tokyo-night&hide_border=true&area=true" alt="График активности Development-Day" loading="lazy" />
+
+</div>
+
+---
+
+<div align="center">
+
+<div align="center">
+
+## ⚡ Быстрый старт
+
+</div>
+
+```bash
+# 1. Форкните нужный репозиторий на GitHub, затем:
+git clone https://github.com/<ваш-username>/ServerDeck.git
+cd ServerDeck
+
+# 2. Создайте ветку под задачу
+git checkout -b feat/my-first-contribution
+
+# 3. Установите зависимости (пример для Python-проекта)
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+pip install -r requirements-dev.txt
+
+# 4. Запустите линтеры и тесты
+ruff check .
+mypy .
+pytest -q
+
+# 5. Закоммитьте и отправьте PR
+git add .
+git commit -m "feat: краткое описание изменения"
+git push origin feat/my-first-contribution
+💡 Не знаете, с чего начать? Ищите задачи с меткой good first issue.
+```
+<div align="center">
+🧭 Как присоединиться
+</div><table align="center"> <tr> <td align="center" width="25%">
+1️⃣ Выбери проект
+
+Найди проект в списке выше или предложи идею в Issues.
+
+</td> <td align="center" width="25%">
+2️⃣ Сделай fork
+
+Создай ветку и внеси изменения — даже если это первая правка.
+
+</td> <td align="center" width="25%">
+3️⃣ Отправь PR
+
+Pull request с описанием изменений. Ревью поможем пройти.
+
+</td> <td align="center" width="25%">
+4️⃣ Обсуждай
+
+Присоединяйся к Discussions.
+
+</td> </tr> </table>
+📜 Правила участия
+Соблюдайте Кодекс поведения.
+
+Один PR — одна логическая задача.
+
+Пишите осмысленные коммиты (Conventional Commits).
+
+Не стесняйтесь задавать вопросы в Discussions — здесь учатся все.
+
+<div align="center">
+📫 Связаться
+https://img.shields.io/badge/GitHub-Development--Day-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Issues-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-2ea44f?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Discussions-%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F-3A7BD5?style=for-the-badge&logo=github&logoColor=white
+
+</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="" width="100%" loading="lazy" />
+Сделано студентами. Открыто для всех.
+
+<sub>© Development-Day · Распространяется под лицензией MIT</sub>
+
+</div> ```
