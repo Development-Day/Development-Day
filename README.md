@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://development-day.github.io/">
+<a href="https://development-day.github.io/" title="Открыть сайт сообщества">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Development-Day&fontSize=48&fontColor=ffffff&desc=Typical%20community%20of%20students&descAlignY=68&descSize=16" alt="Development-Day — перейти на сайт сообщества" width="100%" />
 </a>
 
@@ -9,6 +9,10 @@
 Студенческое сообщество: ML, мобильные и десктопные приложения, инфраструктура.
 Практикуем разработку на всех языках — от классических до современных.
 
+[![Сайт](https://img.shields.io/badge/🌐_Сайт-development--day.github.io-2ea44f?style=flat-square)](https://development-day.github.io/)
+[![Проекты](https://img.shields.io/badge/🚀_Проекты-6-2ea44f?style=flat-square)](#-проекты)
+[![Участники](https://img.shields.io/badge/👥_Участники-студенты-3A7BD5?style=flat-square)](https://github.com/Development-Day/Development-Day/graphs/contributors)
+[![Лицензия](https://img.shields.io/badge/📄_MIT-green?style=flat-square)](./LICENSE)
 
 </div>
 
