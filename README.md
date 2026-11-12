@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Development-Day&fontSize=48&fontColor=ffffff&desc=Typical%20community%20of%20students&descAlignY=68&descSize=16" alt="Development-Day" width="100%" />
+<a href="https://development-day.github.io/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Development-Day&fontSize=48&fontColor=ffffff&desc=Typical%20community%20of%20students&descAlignY=68&descSize=16" alt="Development-Day — перейти на сайт сообщества" width="100%" />
+</a>
 
 ### 🎓 Разработка ради обучения. Код ради пользы.
 
