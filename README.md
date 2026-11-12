@@ -10,8 +10,8 @@
 Практикуем разработку на всех языках — от классических до современных.
 
 [![Сайт](https://img.shields.io/badge/🌐_Сайт-development--day.github.io-2ea44f?style=flat-square)](https://development-day.github.io/)
-[![Проекты](https://img.shields.io/badge/🚀_Проекты-6-2ea44f?style=flat-square)](#-проекты)
-[![Участники](https://img.shields.io/badge/👥_Участники-студенты-3A7BD5?style=flat-square)](https://github.com/Development-Day/Development-Day/graphs/contributors)
+[![Проекты](https://img.shields.io/badge/🚀_Проекты-3-2ea44f?style=flat-square)](#-проекты)
+[![Участники](https://img.shields.io/badge/👥_Участники-3A7BD5?style=flat-square)](https://github.com/Development-Day/Development-Day/graphs/contributors)
 [![Лицензия](https://img.shields.io/badge/📄_MIT-green?style=flat-square)](./LICENSE)
 
 </div>
